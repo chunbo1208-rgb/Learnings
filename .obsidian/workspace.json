@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra/Linear Algebra Done Right.md",
+                "file": "高考/高考化学/高中化学.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Algebra Done Right"
+              "title": "高中化学"
             }
           }
         ]
@@ -185,9 +185,9 @@
   },
   "active": "1b7aa47c31fc63bd",
   "lastOpenFiles": [
+    "Linear Algebra/Linear  Algebra Done Right.md",
     "Linear Algebra/Sheldon Axler—Linear Algebra Done Right 3e.pdf",
     "高考/高考生物/高中生物.md",
-    "Linear Algebra/Linear Algebra Done Right.md",
     "Untitled",
     "Linear Algebra",
     "高考/高考生物/普通高中教科书·生物学选择性必修1 稳态与调节.pdf.sb-01fc2eab-6fUQTJ",
@@ -198,7 +198,6 @@
     "高考/高考化学/普通高中教科书·化学选择性必修1 化学反应原理.pdf",
     "高考/高考化学/普通高中教科书·化学必修 第二册.pdf",
     "高考/高考化学",
-    "高考",
     "Welcome.md"
   ]
 }
