@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "eb1e2a66aeb51b84",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ad2888394f6f94e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b7aa47c31fc63bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Algebra/Linear Algebra Done Right.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linear Algebra Done Right"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff0ef64455c4e68f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bef894c6a5e594ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7aea210e115c1903",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "31635840c262cdc9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a76bd7ea123a2fc9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b26c4ed865dac4fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfac06b282668207",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f9d433e0cbc42a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linear Algebra/Linear Algebra Done Right.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Linear Algebra Done Right"
+            }
+          },
+          {
+            "id": "952fce753b6d3c63",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linear Algebra/Linear Algebra Done Right.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Linear Algebra Done Right"
+            }
+          },
+          {
+            "id": "10b0708f7207703e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "06416e898cbf6a87",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8ffbd42f37fa5f26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linear Algebra/Linear Algebra Done Right.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Linear Algebra Done Right"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1b7aa47c31fc63bd",
+  "lastOpenFiles": [
+    "Linear Algebra/Sheldon Axler—Linear Algebra Done Right 3e.pdf",
+    "高考/高考生物/高中生物.md",
+    "Linear Algebra/Linear Algebra Done Right.md",
+    "Untitled",
+    "Linear Algebra",
+    "高考/高考生物/普通高中教科书·生物学选择性必修1 稳态与调节.pdf.sb-01fc2eab-6fUQTJ",
+    "高考/高考生物/普通高中教科书·生物学选择性必修1 稳态与调节.pdf",
+    "高考/高考生物/普通高中教科书·生物学必修2 遗传与进化.pdf",
+    "高考/高考化学/高中化学.md",
+    "高考/高考生物",
+    "高考/高考化学/普通高中教科书·化学选择性必修1 化学反应原理.pdf",
+    "高考/高考化学/普通高中教科书·化学必修 第二册.pdf",
+    "高考/高考化学",
+    "高考",
+    "Welcome.md"
+  ]
+}
