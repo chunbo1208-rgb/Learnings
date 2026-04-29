@@ -1,5 +1,5 @@
 [[Sheldon Axler—Linear Algebra Done Right 3e.pdf]]
-
+10 Chapters in total, I need to read it all this week.
 # Chapter 1
 ## Exercise 1C
 [7]Give an example of a nonempty subset $U$ of $R^2$ such that $U$ is closed under addition and under taking additive inverses (meaning $-u\in U$ whenever $u\in U$), but $U$ is not a subspace of $R^2$.
@@ -24,5 +24,19 @@
 only if one of the subspaces contains the other two.
 Hint from the book: *This exercise is surprisingly harder than the previous exercise, possibly because this exercise is not true if we replace $\mathbb{F}$ with a field containing only two elements.* And $\mathbb{GL_2}$ which only contains 0 and 1 is such a field. 
 	$U_1\bigcup U_2 \bigcup U_3<V$ then we have that from [12] we know that $U_1 \subset (U_2\bigcup U_3)$ or $(U_2\bigcup U_3)\subset U_1$ and similar situations. To prove the rest situations we can write that  $U_1 \subset (U_2\bigcup U_3)$, $U_2 \subset (U_1\bigcup U_3)$ and $U_3 \subset (U_1\bigcup U_2)$.
+# Chapter 2
+## 2A Span and Linear Independence
+- Definition linear combination:
+	A linear combination of a list $v_1,\dots v_m$ of vectors in V is a vector of the form $a_1v_1+\dots + a_mv_m$ where $a_1,\dots,a_m \in F$.
+- Definition of span.
+	all the linear combination of a list of vectors.
+- Span is the smallest containing subspace.
+- Span as a verb: if span($v_1\dots,v_m$) equals $V$, we say $v_1\dots,v_m$ **spans** $V$.
+- A list $v_1,\dots,v_m$ of vectors in $V$ is called **linearly independent** if the only choice of $a1,\cdots,a_m \in \mathbb{F}$ that makes $a_1v_1 + \cdots+ a_mv_m = 0$ is $a_i = 0$ for $i=1,\dots,m$.
+- Length of linearly independent list $\leq$ length of spanning list
+	$V=\text{span}(u_1,\dots,u_n)$, list $w_1,\dots,w_m$ is independence. Then we use $$(u_1,\dots,u_n)\to(u_1,\dots,u_{n-1},w_1)\to\dots\to(w_1,\dots,w_n)$$ They can all spans the space $V$.
 
-## 
+### Exercise
+[17]Suppose $p_0,p_1,\dots,p_m$ are polynomials in $\mathit{P}_m(\mathbb{F})$ such that $p_j(2)=0$ for each $j$. Prove that $p_0,p_1,\dots,p_m$ is not linearly independent in $\mathit{P}_m(\mathbb{F})$.
+	$(x-2)$ is the public divider.
+## 2B Bases
