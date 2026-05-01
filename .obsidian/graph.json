@@ -5,18 +5,33 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Math Contest\" ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:高考  ",
+      "color": {
+        "a": 1,
+        "rgb": 6953675
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
+  "nodeSizeMultiplier": 1.4889733238344,
+  "lineSizeMultiplier": 2.41230507401251,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 2.48317897569857,
+  "linkStrength": 0.251602944668725,
   "linkDistance": 250,
-  "scale": 1.8611258929720782,
+  "scale": 0.827814581509386,
   "close": true
 }

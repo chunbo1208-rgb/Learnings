@@ -4,67 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "7ad2888394f6f94e",
+        "id": "c4f7357815402b35",
         "type": "tabs",
         "children": [
           {
-            "id": "1b7aa47c31fc63bd",
+            "id": "f052af9d336af414",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra/Linear  Algebra Done Right.md",
+                "file": "高考/高考化学/高中化学.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear  Algebra Done Right"
+              "title": "高中化学"
             }
           },
           {
-            "id": "5e9f68fc71967c2d",
+            "id": "55797ea98a6ab8f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math Contest/Math Contest Problems.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Math Contest Problems"
-            }
-          },
-          {
-            "id": "c1a5eeed50f9f90a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math Contest/Math Contest Problems.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Math Contest Problems"
-            }
-          },
-          {
-            "id": "0c5c5bff7da48c5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compute Gap N-01.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Compute Gap N-01"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b26c4ed865dac4fb",
@@ -227,30 +194,110 @@
       "bases:Create new base": false
     }
   },
-  "active": "0c5c5bff7da48c5a",
+  "floating": {
+    "id": "f1a4455178da9482",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6073bfc0a4252acc",
+        "type": "window",
+        "children": [
+          {
+            "id": "2b3f70199272eb58",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0c5c5bff7da48c5a",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Math Contest/20260430BeijingN.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "20260430BeijingN"
+                }
+              },
+              {
+                "id": "6f57efb59c1672cb",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "高考/高考化学/普通高中教科书·化学必修 第二册.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "普通高中教科书·化学必修 第二册"
+                }
+              },
+              {
+                "id": "17a434e3a082f671",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "高考/5天化学生物必修二满分冲刺复习计划.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "5天化学生物必修二满分冲刺复习计划"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 33,
+        "width": 736,
+        "height": 833,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "55797ea98a6ab8f7",
   "lastOpenFiles": [
-    "Math Contest/algebrashiwu.pdf",
-    "Math Contest/20260310_202603101152_20146.pdf",
-    "Math Contest/2026年4月谜之竞赛题目.pdf",
-    "Math Contest/【北京】2026年4月 daan2.pdf",
-    "Math Contest/Math Contest Problems.md",
-    "Compute Gap N-01.md",
-    "verticallyLearning.md",
-    "Vertically Learning Practice/2604.22753v1.pdf",
-    "GithubRepo/quarkdown/CLAUDE.md",
+    "Math Contest/Functions with Symmetric Divisibility N-21.md",
+    "Math Contest/Finite Set with Divisibility Closure N-04.md",
+    "Math Contest/Dyadic Class Sum Bound C-05.md",
+    "Math Contest/Divisors of 8x4 Plus P2 Minus 7 N-16.md",
+    "Math Contest/Euler's Theorem (Number Theory).md",
+    "Math Contest/Max Row Maxima over Column Maxima C-02.md",
+    "Math Contest/Maximum Sum with Reciprocal Constraint A-15.md",
+    "Math Contest/Maximum Triple Product with Split Sums A-16.md",
+    "Math Contest/N-11 Divisor Count Growth (2026CTST10).md",
+    "高考/5天化学生物必修二满分冲刺复习计划.md",
+    "Math Contest/N-02 Combine the conditions.md",
+    "Math Contest/20260501BeijingN.pdf",
+    "Math Contest/5.1刘老师.pdf",
+    "5.1刘老师.pdf",
+    "高考/高考化学/化学必修第二册综合问题集.md",
+    "高考/高考生物/生物学必修2遗传与进化综合问题集.md",
+    "高考/高考生物/高中生物.md",
+    "README.md",
+    "Math Contest/N-03 Compute Gap.md",
+    "Untitled.md",
+    "高考/高考化学/普通高中教科书·化学必修 第二册.pdf",
+    "高考/高考化学/高中化学.md",
+    "高考/高考化学/必修二Prompt.md",
+    "Chemistry/Sulfur.md",
+    "Chemistry/Sulfuric Acid Production.md",
+    "Chemistry/Standard Reduction Potentials.md",
+    "Chemistry",
+    "高考/高考生物/普通高中教科书·生物学必修1 分子与细胞.pdf",
+    "高考/高考生物/普通高中教科书·生物学选择性必修2 生物与环境.pdf",
+    "高考/高考生物/普通高中教科书·生物学选择性必修3 生物技术与工程.pdf",
+    "高考/高考化学/普通高中教科书·化学选择性必修3 有机化学基础.pdf",
+    "高考/高考化学/普通高中教科书·化学必修 第一册.pdf",
+    "Vertically Learning Practice/Spend Less, Fit Better Budget-Efficient Scaling Law Fitting via Active Experiment Selection.md",
+    "Math Contest/Nonzero Fourier Coefficients Bound A-13.md",
+    "Math Contest/Odd Sequence Near 2n N-15.md",
+    "Math Contest/N-18 Cyclic Recurrence Permutations in Dividision.md",
     "GithubRepo/quarkdown/docs/assets/icon.svg",
     "GithubRepo/quarkdown/docs/assets/sky.jpg",
-    "GithubRepo/GhostTrack(finished)/asset/bn.png",
-    "Vertically Learning Practice/Spend Less, Fit Better Budget-Efficient Scaling Law Fitting via Active Experiment Selection.md",
-    "Clippings",
-    "Vertically Learning Practice/Unconfirmed 650649.crdownload",
-    "Vertically Learning Practice",
-    "Math Contest/4.25日顾老师板书.pdf",
-    "Linear Algebra/Linear  Algebra Done Right.md",
-    "Linear Algebra/Sheldon Axler—Linear Algebra Done Right 3e.pdf",
-    "English Learning",
-    "高考/高考化学/高中化学.md",
-    "README.md",
-    "高考/高考生物/高中生物.md"
+    "GithubRepo/GhostTrack(finished)/asset/bn.png"
   ]
 }
